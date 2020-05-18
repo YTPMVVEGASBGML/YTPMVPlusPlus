@@ -1,0 +1,2 @@
+# YTPMVPlusPlus
+YTPMV++, the acronym for YouTube Poop Music Video, is a musical YouTube Poop, similar to a MAD video. Like a YouTube Poop, they feature various clips from tv shows, movies, commercials, and other video sources, but the clips are sequenced to fit to a beat. Often, they are set to the tune of a song from a video game soundtrack or keygen music. Other times, original compositions are created.
