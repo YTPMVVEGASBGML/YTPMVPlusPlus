@@ -1,5 +1,5 @@
 YTPMV++
-Made with heart in C#.
+Made with heart in EXE.
 Nina Maker Links GitHub issues GitHub last commit GitHub license Downloads Latest release
 
 YTPMV++ is an iteration of YTP+, written in EXE.
