@@ -14,7 +14,7 @@ A warning call
 For those of you using plugins, please be aware that YTPMV++ has no mind in what is a real plugin batch and what isn't. Any non-verified plugins have the potential to be malicious, be on the look out for the malicious use of plugins as there is a possibility that a plugin can be harmful. Remember to NEVER start YTPMV++ as an administrator.
 
 What is YTPMV+ and YTPMV++?
-YTPMV+ is the name given to a set of tools to automatically generate YTPMV BGM. YTPMV++ is the name given to the second iteration of the software, however there was once a YTP++ made in Electron and Node.JS.
+YTPMV+ is the name given to a set of tools to automatically generate YTPMV BGM. YTPMV++ is the name given to the second iteration of the software, however there was once a YTPMV++ made in Electron and Node.JS.
 
 How do I configure YTPMV++!
 All configuration settings may be found in the application itself, either on the interface or in the Tools menu. ImageMagick is required for the Squidward effect but is otherwise not needed. A 32-bit version of VLC is recommended to run this software, please install it beforehand for enhanced functionality.
